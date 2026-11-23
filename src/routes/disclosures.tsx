@@ -57,11 +57,11 @@ function Disclosures() {
         <tbody>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Receivables A</th>
-            <td id="note-receivables-a" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">97,600</td>
+            <td id="note-receivables-a" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">56,900</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Receivables B</th>
-            <td id="note-receivables-b" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">52,400</td>
+            <td id="note-receivables-b" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">93,100</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge font-semibold bg-raised">Total receivables</th>
