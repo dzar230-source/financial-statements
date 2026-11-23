@@ -34,11 +34,11 @@ function Disclosures() {
         <tbody>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Cost</th>
-            <td id="note-equipment-cost" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">1,402,000</td>
+            <td id="note-equipment-cost" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">588,000</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge">Accumulated depreciation</th>
-            <td id="note-accumulated-depreciation" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">(1,002,000)</td>
+            <td id="note-accumulated-depreciation" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">(188,000)</td>
           </tr>
           <tr>
             <th scope="row" className="text-left px-5 py-3 border-t border-edge font-semibold bg-raised">Equipment and vehicles, net</th>
